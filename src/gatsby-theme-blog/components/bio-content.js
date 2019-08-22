@@ -8,8 +8,6 @@ import { Styled } from "theme-ui"
 export default () => (
   <Fragment>
     Personal Blog by <Styled.a href="http://twitter.com/saiafonua">Saia Fonua</Styled.a>
-    {` `}
-    goes.
     <br />
     Or whatever, you make the rules.
   </Fragment>
