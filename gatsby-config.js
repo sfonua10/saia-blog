@@ -7,7 +7,7 @@ module.exports = {
   ],
   // Customize your site metadata:
   siteMetadata: {
-    title: `Gospel insights and views`,
+    title: `Software Principles`,
     author: `Saia Fonua`,
     description: `My site description...`,
     social: [

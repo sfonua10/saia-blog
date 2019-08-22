@@ -9,6 +9,6 @@ export default () => (
   <Fragment>
     Personal Blog by <Styled.a href="http://twitter.com/saiafonua">Saia Fonua</Styled.a>
     <br />
-    Or whatever, you make the rules.
+    Learning line upon line
   </Fragment>
 )
