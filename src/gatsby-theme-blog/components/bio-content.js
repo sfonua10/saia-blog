@@ -7,8 +7,9 @@ import { Styled } from "theme-ui"
 
 export default () => (
   <Fragment>
-    Personal Blog by <Styled.a href="http://twitter.com/saiafonua">Saia Fonua</Styled.a>
+    Personal Tech Blog by{" "}
+    <Styled.a href="http://twitter.com/saiafonua">Saia Fonua</Styled.a>
     <br />
-    Learning line upon line
+    Blogging about things I'm learning
   </Fragment>
 )
