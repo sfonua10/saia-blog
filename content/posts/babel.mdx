@@ -1,0 +1,9 @@
+---
+title: Babel
+date: 2020-04-14
+---
+
+I was reviewing my coworkers PR, and in there, I saw that he was validating properties in a nested objected to see if it existed. I mentioned in his PR that he could use the new optional chaining feature javascript has but that it wasn't a big deal. He responded how there is a version of Microsoft Edge that does not support optional chaining and because we want to support the app in that version of Microsoft Edge, that doing optional chaining is not the way to go. What he did not know is that there are transpilers that take whatever standard or version of Javascript a developer decides to use, that it will transpile or create the equivalent of that in it's older form so all browsers can support it. 
+
+This means we don't have to write the older form of Javascript to support browsers who currently don't support new features of javascript. It means we write the new standard version of Javascript, and add 
+One of the popular transpilers used is called Babel. 
